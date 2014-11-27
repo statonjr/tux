@@ -1,4 +1,4 @@
-(defproject tux/lein-template "0.1.0"
+(defproject tux/lein-template "0.2.0"
   :description "A minimal ClojureScript template with Reagent"
   :url "https://github.com/statonjr/tux"
   :license {:name "Eclipse Public License"
