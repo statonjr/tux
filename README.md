@@ -1,10 +1,13 @@
 # tux
 
+[![Clojars Project](http://clojars.org/tux/lein-template/latest-version.svg)]
+
 A minimal ClojureScript template with Reagent.
 
 ## Usage
 
 To create a new project:
+
 ```
 lein new tux hello-world
 cd hello-world
