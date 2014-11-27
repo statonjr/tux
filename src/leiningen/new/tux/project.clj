@@ -14,6 +14,7 @@
                         :builds [{:id "{{name}}"
                                   :source-paths ["src"]
                                   :compiler {
+                                             :preamble ["reagent/react.js"]
                                              :output-to "{{sanitized}}.js"
                                              :output-dir "out"
                                              :optimizations :none
