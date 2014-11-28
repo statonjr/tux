@@ -16,6 +16,4 @@
                                   :compiler {
                                              :preamble ["reagent/react.js"]
                                              :output-to "{{sanitized}}.js"
-                                             :output-dir "out"
-                                             :optimizations :none
-                                             :source-map true}}]})
+                                             :output-dir "out"}}]})
