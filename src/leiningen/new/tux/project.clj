@@ -15,5 +15,5 @@
                                   :source-paths ["src"]
                                   :compiler {
                                              :preamble ["reagent/react.js"]
-                                             :output-to "{{sanitized}}.js"
+                                             :output-to "target/{{sanitized}}.js"
                                              :output-dir "out"}}]})
